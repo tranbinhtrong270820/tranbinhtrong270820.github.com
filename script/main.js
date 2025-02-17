@@ -86,6 +86,8 @@ const animationTimeline = () => {
             y: 10
         },
     "+=3")
+    "div" from (". ,07, 01)
+        "div" jav.crissTi
     .from(".four", 0.7, {
         scale: 0.2,
         opacity: 0,
